@@ -41,4 +41,8 @@
 
 [website]: https://www.benjaminadolphe.fr
 [instagram]: https://www.instagram.com/adolphebenjamin/
+<<<<<<< HEAD
 [linkedin]: https://www.linkedin.com/in/adolphe-benjamin-183322172
+=======
+[linkedin]: www.linkedin.com/in/adolphe-benjamin-183322172
+>>>>>>> 04e7c3fa07d2e0d1420439effb7b25c82d8ca71c
