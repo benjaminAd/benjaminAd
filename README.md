@@ -1,3 +1,4 @@
+
 ### Salut, c'est Benjamin - aka [BAcode][website] 👋
 
 [![Website](https://img.shields.io/website?label=benjaminadolphe.fr&style=for-the-badge&url=https%3A%2F%2Fwww.benjaminadolphe.fr)](https://www.benjaminadolphe.fr)
@@ -10,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(175deg);" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(175deg);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style="filter: invert(1) sepia(1) saturate(5) hue-rotate(175deg);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -40,4 +41,4 @@
 
 [website]: https://www.benjaminadolphe.fr
 [instagram]: https://www.instagram.com/adolphebenjamin/
-[linkedin]: www.linkedin.com/in/adolphe-benjamin-183322172
+[linkedin]: https://www.linkedin.com/in/adolphe-benjamin-183322172
