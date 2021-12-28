@@ -5,8 +5,8 @@
 
 ## Je suis un étudiant en informatique et un passionné du développement full stack!!
 
-- 🌱 Actuellement en Master 2 Génie Logiciel
-- 🥅 2021 Goals: Obtenir un stage afin de valider ma dernière année de master et améliorer mes compétences  en développement logiciel
+- 🌱 Actuellement en Master 2 Génie Logiciel et stagiaire chez Sopra Steria
+- 🥅 2022 Goals: Valider ma dernière année de master et améliorer mes compétences  en développement logiciel
 - ⚡ Fun fact: J'aime jouer au basket et jouer de la guitare
 
 ### Connect with me:
