@@ -3,9 +3,9 @@
 
 [![Website](https://img.shields.io/website?label=benjaminadolphe.fr&style=for-the-badge&url=https%3A%2F%2Fwww.benjaminadolphe.fr)](https://www.benjaminadolphe.fr)
 
-## Je suis un étudiant en informatique et un passionné du développement full stack!!
+## Je suis passionné du développement full stack!!
 
-- 🌱 Actuellement en Master 2 Génie Logiciel et stagiaire chez Sopra Steria
+- 🌱 Actuellement ingénieur études et développement chez Sopra Steria
 - 🥅 2022 Goals: Valider ma dernière année de master et améliorer mes compétences  en développement logiciel
 - ⚡ Fun fact: J'aime jouer au basket et jouer de la guitare
 
